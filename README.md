@@ -5,7 +5,7 @@
 
 <h3>Form-Validation</h3> 
 <a href="https://shaikharyan.github.io/Form-Validation-JS/">Live Demo</a>
- <img src="Form-Validation/Screenshot.png" alt="screenshot">
+ <img src="Form Validation/Screenshot.png" alt="screenshot">
 
 <h3>Analog-Clock</h3>    
 <a href="https://shaikharyan.github.io/Analog-Clock-JS/">Live Demo</a>
