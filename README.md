@@ -9,7 +9,7 @@
 
 <h3>Analog-Clock</h3>    
 <a href="https://shaikharyan.github.io/Analog-Clock-JS/">Live Demo</a>
- <img src="Analog-Clock/Screenshot.png" alt="screenshot">
+ <img src="Analog Clock/Screenshot.png" alt="screenshot">
     
 <h3>Stopwatch</h3>
 <a href="https://shaikharyan.github.io/Stopwatch-JS/">Live Demo</a>
@@ -18,15 +18,15 @@
 
 <h3>To-Do-List</h3>    
 <a href="https://shaikharyan.github.io/To-Do-List-JS/">Live Demo</a>
- <img src="To-Do-List/Screenshot.png" alt="screenshot">
+ <img src="To Do List/Screenshot.png" alt="screenshot">
     
 <h3>Password-Generator</h3>
 <a href="https://shaikharyan.github.io/Password-Generator-JS/">Live Demo</a>
- <img src="Password-Generator/Screenshot.png" alt="screenshot">
+ <img src="Password Generator/Screenshot.png" alt="screenshot">
     
 <h3>QR-Code-Generator</h3>
 <a href="https://shaikharyan.github.io/QR-Code-Generator-JS/">Live Demo</a>
- <img src="QR-Code-Generator/Screenshot.png" alt="screenshot">
+ <img src="QR Code Generator/Screenshot.png" alt="screenshot">
 
 <h3>Quizwebsite</h3>
 <a href="https://shaikharyan.github.io/Quizwebsite/">Live Demo</a>
